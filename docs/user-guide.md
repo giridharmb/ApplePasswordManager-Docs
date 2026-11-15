@@ -13,7 +13,15 @@ The app opens locked. Unlock with Face ID, Touch ID, or your device passcode. It
 
 <img src="../screenshots/iphone-edit-autocomplete.png" width="260" alt="Editing a login, with a tag suggestion above the keyboard">
 
-As you type a title, username, website or tag, matching values from your other logins appear above the keyboard. Tap one to fill it in.
+### Autocomplete
+
+Tap the username or tags field and your most used usernames and tags appear above the keyboard straight away. Tap one to fill it in. Start typing to narrow the list; titles and websites are suggested as you type too.
+
+### Paste
+
+Every field has a paste button beside it. Copy a value anywhere, then tap the button to drop it into that field. For tags and notes, the pasted text is added to what is already there.
+
+<img src="../screenshots/iphone-new-item-paste.png" width="260" alt="New item screen with a paste button beside each field">
 
 ## Copying
 
