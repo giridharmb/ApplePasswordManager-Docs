@@ -61,6 +61,14 @@ Folders group your items and nest up to three levels deep. Lines in the sidebar 
 
 <img src="../screenshots/iphone-folder-edit.png" width="260" alt="Folder editor with emoji, colour and rating choices">
 
+### Moving items and folders
+
+<img src="../screenshots/iphone-move.png" width="260" alt="Move picker listing every folder, with the current one ticked">
+
+- **Move an item**: touch and hold it (right-click on a Mac) and choose **Move to Folder…**, or swipe it to the left and tap **Move**. Pick a folder, or **No Folder (top level)**.
+- **Move a folder**: touch and hold it and choose **Move Folder…**. Its subfolders and items go with it. Only places that keep folders within three levels are offered.
+- **Drag and drop** (iPad and Mac): drag an item or a folder onto a folder in the sidebar. Drop it on **All Items** to move it to the top level.
+
 ### Putting an item in a folder
 
 In the item editor, tap **Folder**. Choose **No Folder (top level)** to keep the item outside every folder, or search for a folder. The search is forgiving: typing `acp` finds "Acme Corp". A new item starts in whichever folder you were viewing.
