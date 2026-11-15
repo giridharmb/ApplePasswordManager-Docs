@@ -47,6 +47,28 @@ Copied values stay on this device only and are cleared after one minute. Change 
 - Type `#` followed by a few letters to filter by tag. `alex #work` finds logins that contain "alex" and have the tag `work`.
 - Tap the sort button to order by title, date updated, date created, or favourites first.
 
+## Folders
+
+<img src="../screenshots/iphone-sidebar.png" width="260" alt="Sidebar showing pinned folders and the folder tree with connecting lines">
+
+Folders group your items and nest up to three levels deep. Lines in the sidebar join each subfolder to its parent. Selecting a folder shows its items and those of its subfolders.
+
+- **Create**: tap **New Folder** at the end of the Folders list. For a subfolder, touch and hold a folder (right-click on a Mac) and choose **New Subfolder**.
+- **Colour and emoji**: pick both when creating or editing a folder.
+- **Star rating**: rate a folder from one to five stars in the editor, or from its menu.
+- **Pin**: pinned folders appear in a **Pinned** section at the top and sort first among their siblings. Swipe a folder to the right, or use its menu.
+- **Edit or delete**: swipe a folder to the left, or use its menu. Deleting a folder also deletes its subfolders, but the items inside are kept and move to the top level.
+
+<img src="../screenshots/iphone-folder-edit.png" width="260" alt="Folder editor with emoji, colour and rating choices">
+
+### Putting an item in a folder
+
+In the item editor, tap **Folder**. Choose **No Folder (top level)** to keep the item outside every folder, or search for a folder. The search is forgiving: typing `acp` finds "Acme Corp". A new item starts in whichever folder you were viewing.
+
+An item with just a title and notes works as a secure note, so folders can hold notes as well as logins.
+
+<img src="../screenshots/iphone-folder-picker.png" width="260" alt="Folder search finding Acme Corp from the letters acp">
+
 ## Tags
 
 Type tags in the **Tags** field separated by spaces: `#work #bank`. Hashtags written in the notes are added as tags too. The sidebar lists every tag with its number of logins.
@@ -63,7 +85,7 @@ Every login shows when it was created and last updated.
 
 ## Security checks
 
-The sidebar lists **Weak Passwords** and **Reused Passwords**. On any login, tap **Check for Data Breaches** to see whether that password appears in known breaches.
+The sidebar lists **Weak Passwords** and **Reused Passwords**.
 
 ## Deleting
 

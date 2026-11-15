@@ -5,7 +5,7 @@ Keep every login in one place, locked with Face ID or Touch ID and synced throug
 <p>
   <img src="screenshots/iphone-list.png" width="240" alt="List of saved logins">
   <img src="screenshots/iphone-detail.png" width="240" alt="Details of one login">
-  <img src="screenshots/iphone-sidebar.png" width="240" alt="Sidebar with favourites, security checks and tags">
+  <img src="screenshots/iphone-sidebar.png" width="240" alt="Sidebar with pinned folders and a folder tree joined by connecting lines">
 </p>
 
 Screenshots are taken from the app running with sample data.
@@ -15,11 +15,12 @@ Screenshots are taken from the app running with sample data.
 - **One-tap copy** of a username or password, from the list or the detail screen. The clipboard clears itself.
 - **Search** across titles, usernames, websites, notes and tags. Type `#` to filter by tag.
 - **Sort** by title, date updated, date created, or favourites first.
+- **Folders**, nested up to three levels, each with its own colour, emoji, star rating and optional pin.
 - **Hashtags** to organise logins, with a tag list in the sidebar.
 - **Autocomplete**: your most used usernames and tags are one tap away, before you type anything.
 - **Select All, Copy and Paste buttons** beside every field when adding or editing a login.
 - **Password generator** with a strength meter.
-- **Security checks**: weak passwords, reused passwords and known data breaches.
+- **Security checks**: weak and reused passwords.
 - **Previous passwords**: the last five are kept per login, and you can view, reuse, edit or delete them.
 - **Drafts**: close the editor half-way and your typing is still there when you come back.
 - **Custom fields** and file attachments on every item.
