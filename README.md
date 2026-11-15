@@ -20,7 +20,9 @@ Screenshots are taken from the app running with sample data.
 - **Select All, Copy and Paste buttons** beside every field when adding or editing a login.
 - **Password generator** with a strength meter.
 - **Security checks**: weak passwords, reused passwords and known data breaches.
-- **Password history**, custom fields and file attachments on every item.
+- **Previous passwords**: the last five are kept per login, and you can view, reuse, edit or delete them.
+- **Drafts**: close the editor half-way and your typing is still there when you come back.
+- **Custom fields** and file attachments on every item.
 - **iCloud sync** across your iPhone, iPad, Mac and Apple Watch.
 - **Encrypted backups** you can restore on any later version of the app.
 - **AutoFill** in Safari and other apps.

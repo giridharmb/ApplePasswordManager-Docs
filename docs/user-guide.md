@@ -27,6 +27,10 @@ Every field has three buttons beside it:
 
 <img src="../screenshots/iphone-field-tools.png" width="260" alt="Edit screen with the username selected and Select All, Copy and Paste buttons beside each field">
 
+### Unfinished edits are kept
+
+If you close the editor without saving (Cancel, Escape on a Mac, or quitting the app), what you typed is kept on that device and is there when you open the editor again. To throw it away, scroll to the bottom and tap **Discard Changes**.
+
 ## Copying
 
 - In the list, tap the copy icon on a row to copy its password.
@@ -51,7 +55,9 @@ Type tags in the **Tags** field separated by spaces: `#work #bank`. Hashtags wri
 
 - **Custom fields** hold anything extra, such as a customer number or PIN. Turn on **Hide value** to mask a field.
 - **Attachments** store small files (up to 10 MB each) with a login.
-- **Password history** keeps each previous password with the date it was replaced.
+- **Previous passwords**: the last five passwords of each login are kept, with the date each was replaced. Reveal or copy any of them, or tap **⋯** to use one as the current password (the two swap places), edit it, or delete it.
+
+<img src="../screenshots/iphone-versions.png" width="260" alt="Previous Passwords section with its actions menu open">
 
 Every login shows when it was created and last updated.
 
