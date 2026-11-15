@@ -17,7 +17,7 @@ Screenshots are taken from the app running with sample data.
 - **Sort** by title, date updated, date created, or favourites first.
 - **Hashtags** to organise logins, with a tag list in the sidebar.
 - **Autocomplete**: your most used usernames and tags are one tap away, before you type anything.
-- **Paste buttons** beside every field when adding or editing a login.
+- **Select All, Copy and Paste buttons** beside every field when adding or editing a login.
 - **Password generator** with a strength meter.
 - **Security checks**: weak passwords, reused passwords and known data breaches.
 - **Password history**, custom fields and file attachments on every item.

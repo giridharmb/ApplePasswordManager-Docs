@@ -17,11 +17,15 @@ The app opens locked. Unlock with Face ID, Touch ID, or your device passcode. It
 
 Tap the username or tags field and your most used usernames and tags appear above the keyboard straight away. Tap one to fill it in. Start typing to narrow the list; titles and websites are suggested as you type too.
 
-### Paste
+### Select All, Copy and Paste
 
-Every field has a paste button beside it. Copy a value anywhere, then tap the button to drop it into that field. For tags and notes, the pasted text is added to what is already there.
+Every field has three buttons beside it:
 
-<img src="../screenshots/iphone-new-item-paste.png" width="260" alt="New item screen with a paste button beside each field">
+- **Select All** marks the whole field with a coloured, rounded box. Tap it again, or edit the text, to clear it.
+- **Copy** copies the field's text.
+- **Paste** drops in whatever you last copied. For tags and notes, the pasted text is added to what is already there.
+
+<img src="../screenshots/iphone-field-tools.png" width="260" alt="Edit screen with the username selected and Select All, Copy and Paste buttons beside each field">
 
 ## Copying
 
