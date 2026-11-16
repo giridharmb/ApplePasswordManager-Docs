@@ -63,11 +63,25 @@ Folders group your items and nest up to three levels deep. Lines in the sidebar 
 
 ### Moving items and folders
 
-<img src="../screenshots/iphone-move.png" width="260" alt="Move picker listing every folder, with the current one ticked">
+A bar of folders sits above every list, so a folder is always within reach.
 
-- **Move an item**: touch and hold it (right-click on a Mac) and choose **Move to Folder…**, or swipe it to the left and tap **Move**. Pick a folder, or **No Folder (top level)**.
-- **Move a folder**: touch and hold it and choose **Move Folder…**. Its subfolders and items go with it. Only places that keep folders within three levels are offered.
-- **Drag and drop** (iPad and Mac): drag an item or a folder onto a folder in the sidebar. Drop it on **All Items** to move it to the top level.
+**Drag and drop.** Touch and hold an item until it lifts, then drag it onto a folder in the bar. The folder grows and lights up to show where the item will land. Drop it on **Top Level** to take it out of every folder. On iPad and Mac you can also drop onto folders in the sidebar, and drag folders onto other folders.
+
+**Move several at once.**
+
+<img src="../screenshots/iphone-multiselect.png" width="260" alt="Select mode with two items ticked and the folder bar saying Tap a folder to move 2 items there">
+
+1. Tap **Select**.
+2. Tap each item you want. A tick shows what is chosen; **Select All** picks everything in the list.
+3. Tap a folder in the bar above the list. The ticked items move there.
+
+You can also drag any ticked item to move all of them, tap the folder button at the bottom to search for a folder, or tap the bin to move them to Trash.
+
+**From the menu.** Touch and hold an item (right-click on a Mac) and choose **Move to Folder…**, or swipe it left and tap **Move**.
+
+**Move a folder.** Touch and hold it and choose **Move Folder…**. Its subfolders and items go with it. Only places that keep folders within three levels are offered.
+
+<img src="../screenshots/iphone-move.png" width="260" alt="Move picker listing every folder, with the current one ticked">
 
 ### Putting an item in a folder
 
@@ -90,6 +104,24 @@ Type tags in the **Tags** field separated by spaces: `#work #bank`. Hashtags wri
 <img src="../screenshots/iphone-versions.png" width="260" alt="Previous Passwords section with its actions menu open">
 
 Every login shows when it was created and last updated.
+
+## Statistics
+
+<p>
+  <img src="../screenshots/iphone-stats-1.png" width="260" alt="Statistics summary tiles">
+  <img src="../screenshots/iphone-stats-2.png" width="260" alt="Charts of most used tags and items added per month">
+</p>
+
+Open **Statistics** from the sidebar or the sort menu for a scrollable overview of your vault:
+
+- Totals: items, folders, tags, favourites, weak and reused passwords, average password length.
+- Password strength, and unique versus reused passwords.
+- Items in each folder, and your most used tags.
+- Items added in each of the last 12 months (swipe the chart sideways).
+- How long since each password was changed.
+- How many folders have each star rating.
+
+Everything is worked out on your device.
 
 ## Security checks
 

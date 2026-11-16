@@ -15,11 +15,12 @@ Screenshots are taken from the app running with sample data.
 - **One-tap copy** of a username or password, from the list or the detail screen. The clipboard clears itself.
 - **Search** across titles, usernames, websites, notes and tags. Type `#` to filter by tag.
 - **Sort** by title, date updated, date created, or favourites first.
-- **Folders**, nested up to three levels, each with its own colour, emoji, star rating and optional pin. Move items and folders with a menu or by dragging.
+- **Folders**, nested up to three levels, each with its own colour, emoji, star rating and optional pin. Drag items onto a folder, or tick several and move them together.
 - **Hashtags** to organise logins, with a tag list in the sidebar.
 - **Autocomplete**: your most used usernames and tags are one tap away, before you type anything.
 - **Select All, Copy and Paste buttons** beside every field when adding or editing a login.
 - **Password generator** with a strength meter.
+- **Statistics**: charts of password strength, reuse, age, folders, tags and growth over time.
 - **Security checks**: weak and reused passwords.
 - **Previous passwords**: the last five are kept per login, and you can view, reuse, edit or delete them.
 - **Drafts**: close the editor half-way and your typing is still there when you come back.
