@@ -127,6 +127,12 @@ Everything is worked out on your device.
 
 The sidebar lists **Weak Passwords** and **Reused Passwords**.
 
+## Text size
+
+<img src="../screenshots/iphone-text-size.png" width="260" alt="Text Size setting with a slider between a small A and a large A">
+
+Open **Settings › Text Size**. Leave **Match Device Text Size** on to follow your device, or turn it off and drag the slider towards the small **A** or the large **A**. The change applies straight away to every screen. On a Mac the whole window is zoomed, the way zoom works in a browser; the toolbar at the top of the window stays its normal size.
+
 ## Deleting
 
 Deleted logins move to **Trash** and are removed for good after 30 days. Open Trash to restore one or delete it immediately.

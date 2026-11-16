@@ -8,6 +8,8 @@ Keep every login in one place, locked with Face ID or Touch ID and synced throug
   <img src="screenshots/iphone-sidebar.png" width="240" alt="Sidebar with pinned folders and a folder tree joined by connecting lines">
 </p>
 
+<img src="screenshots/mac-main.jpg" width="760" alt="The Mac app: folder tree in the sidebar, item list in the middle, details on the right">
+
 Screenshots are taken from the app running with sample data.
 
 ## What it does
@@ -29,6 +31,7 @@ Screenshots are taken from the app running with sample data.
 - **Encrypted backups** you can restore on any later version of the app.
 - **AutoFill** in Safari and other apps.
 - **Import** from Chrome, Safari, 1Password, Bitwarden and LastPass.
+- **Text size** setting that makes everything in the app smaller or larger.
 - **Trash** that keeps deleted items for 30 days.
 
 ## Guides
