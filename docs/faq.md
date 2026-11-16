@@ -22,10 +22,10 @@ No. The watch app is for looking things up.
 Open **Trash** in the sidebar and restore it. Items stay there for 30 days.
 
 **What happens to my items if I delete a folder?**
-They are kept and move to the top level. Subfolders of the deleted folder are removed.
+They are kept and move to the top level.
 
-**How deep can folders go?**
-Three levels: a folder, a subfolder, and one more inside that.
+**Can I put a folder inside another folder?**
+No. Folders are a single list. Use tags as well if you need a second way to group items.
 
 **Does it support one-time codes?**
 Not in this version.

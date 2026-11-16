@@ -5,10 +5,10 @@ Keep every login in one place, locked with Face ID or Touch ID and synced throug
 <p>
   <img src="screenshots/iphone-list.png" width="240" alt="List of saved logins">
   <img src="screenshots/iphone-detail.png" width="240" alt="Details of one login">
-  <img src="screenshots/iphone-sidebar.png" width="240" alt="Sidebar with pinned folders and a folder tree joined by connecting lines">
+  <img src="screenshots/iphone-sidebar.png" width="240" alt="Sidebar with pinned folders and the folder list">
 </p>
 
-<img src="screenshots/mac-main.jpg" width="760" alt="The Mac app: folder tree in the sidebar, item list in the middle, details on the right">
+<img src="screenshots/mac-main.jpg" width="760" alt="The Mac app: folders in the sidebar, item list in the middle, details on the right">
 
 Screenshots are taken from the app running with sample data.
 
@@ -17,7 +17,7 @@ Screenshots are taken from the app running with sample data.
 - **One-tap copy** of a username or password, from the list or the detail screen. The clipboard clears itself.
 - **Search** across titles, usernames, websites, notes and tags. Type `#` to filter by tag.
 - **Sort** by title, date updated, date created, or favourites first.
-- **Folders**, nested up to three levels, each with its own colour, emoji, star rating and optional pin. Drag items onto a folder, or tick several and move them together.
+- **Folders**, each with its own colour, emoji, star rating and optional pin. Drag items onto a folder, or tick several and move them together.
 - **Hashtags** to organise logins, with a tag list in the sidebar.
 - **Autocomplete**: your most used usernames and tags are one tap away, before you type anything.
 - **Select All, Copy and Paste buttons** beside every field when adding or editing a login.

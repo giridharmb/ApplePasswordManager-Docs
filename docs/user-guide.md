@@ -49,15 +49,15 @@ Copied values stay on this device only and are cleared after one minute. Change 
 
 ## Folders
 
-<img src="../screenshots/iphone-sidebar.png" width="260" alt="Sidebar showing pinned folders and the folder tree with connecting lines">
+<img src="../screenshots/iphone-sidebar.png" width="260" alt="Sidebar showing a pinned folder and the folder list">
 
-Folders group your items and nest up to three levels deep. Lines in the sidebar join each subfolder to its parent. Selecting a folder shows its items and those of its subfolders.
+Folders group your items. They are a single list: a folder cannot contain another folder.
 
-- **Create**: tap **New Folder** at the end of the Folders list. For a subfolder, touch and hold a folder (right-click on a Mac) and choose **New Subfolder**.
+- **Create**: tap **New Folder** at the end of the Folders list.
 - **Colour and emoji**: pick both when creating or editing a folder.
-- **Star rating**: rate a folder from one to five stars in the editor, or from its menu.
-- **Pin**: pinned folders appear in a **Pinned** section at the top and sort first among their siblings. Swipe a folder to the right, or use its menu.
-- **Edit or delete**: swipe a folder to the left, or use its menu. Deleting a folder also deletes its subfolders, but the items inside are kept and move to the top level.
+- **Star rating**: rate a folder from one to five stars in the editor, or from its menu (touch and hold, or right-click on a Mac).
+- **Pin**: pinned folders appear in a **Pinned** section at the top and sort first. Swipe a folder to the right, or use its menu.
+- **Edit or delete**: swipe a folder to the left, or use its menu. Deleting a folder keeps the items inside; they move to the top level.
 
 <img src="../screenshots/iphone-folder-edit.png" width="260" alt="Folder editor with emoji, colour and rating choices">
 
@@ -65,7 +65,7 @@ Folders group your items and nest up to three levels deep. Lines in the sidebar 
 
 A bar of folders sits above every list, so a folder is always within reach.
 
-**Drag and drop.** Touch and hold an item until it lifts, then drag it onto a folder in the bar. The folder grows and lights up to show where the item will land. Drop it on **Top Level** to take it out of every folder. On iPad and Mac you can also drop onto folders in the sidebar, and drag folders onto other folders.
+**Drag and drop.** Touch and hold an item until it lifts, then drag it onto a folder in the bar. The folder grows and lights up to show where the item will land. Drop it on **Top Level** to take it out of every folder. On iPad and Mac you can also drop onto folders in the sidebar.
 
 **Move several at once.**
 
@@ -79,17 +79,15 @@ You can also drag any ticked item to move all of them, tap the folder button at 
 
 **From the menu.** Touch and hold an item (right-click on a Mac) and choose **Move to Folder…**, or swipe it left and tap **Move**.
 
-**Move a folder.** Touch and hold it and choose **Move Folder…**. Its subfolders and items go with it. Only places that keep folders within three levels are offered.
-
 <img src="../screenshots/iphone-move.png" width="260" alt="Move picker listing every folder, with the current one ticked">
 
 ### Putting an item in a folder
 
-In the item editor, tap **Folder**. Choose **No Folder (top level)** to keep the item outside every folder, or search for a folder. The search is forgiving: typing `acp` finds "Acme Corp". A new item starts in whichever folder you were viewing.
+In the item editor, tap **Folder**. Choose **No Folder (top level)** to keep the item outside every folder, or search for a folder. The search is forgiving: typing `clt` finds "Clients". A new item starts in whichever folder you were viewing.
 
 An item with just a title and notes works as a secure note, so folders can hold notes as well as logins.
 
-<img src="../screenshots/iphone-folder-picker.png" width="260" alt="Folder search finding Acme Corp from the letters acp">
+<img src="../screenshots/iphone-folder-picker.png" width="260" alt="Folder search finding Clients from the letters clt">
 
 ## Tags
 
